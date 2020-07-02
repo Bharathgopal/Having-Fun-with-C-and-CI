@@ -42,4 +42,4 @@ script:
   - ./cunit_democode
   - size cunit_democode
   - echo "Reached Script Section - Valgrid Analysis/do tryout GDB also"
-  - valgrid ./output
+  #- valgrid ./output
